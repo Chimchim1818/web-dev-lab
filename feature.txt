@@ -1,0 +1,2 @@
+I learned how to create and manage repositories, work with branches and submit pull requests.
+As well as learn how to review and merge changes in a team setting.
