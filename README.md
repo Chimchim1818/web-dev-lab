@@ -2,7 +2,7 @@ Chimuka Sakala 2021397696
 Ilukena Chisanga 2021433170
 
 CSC 4035 Week 1 Lab: Setting Up Your Web Development Environment
-This lab focuses on setting up essential web development tools and using Git & GitHub for version control.
+This lab focuses on setting up essential Web development tools and using Git & GitHub for version control.
 
 Key Tasks:
 Install Required Tools (VS Code, Git, Node.js).
